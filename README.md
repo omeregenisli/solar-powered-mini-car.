@@ -5,7 +5,7 @@ A small-scale RC car chassis converted into a fully solar-charged vehicle — no
 Final project for **EED1014 – Engineering Design**, Dokuz Eylül University, Faculty of Engineering, Department of Electrical and Electronics Engineering.
 
 <p align="center">
-  <img src="circuit-closeup.jpg" alt="Close-up of the TP4056 charging circuit wired at the rear of the car, solar panel lifted" width="600">
+  <img src="images/circuit-closeup.jpg" alt="Close-up of the TP4056 charging circuit wired at the rear of the car, solar panel lifted" width="600">
   <br>
   <em>The charging circuit mounted at the rear — TP4056 module (blue LED lit), solar panel wiring, and battery leads.</em>
 </p>
@@ -23,18 +23,18 @@ The system was tuned for real-world sunlight conditions (panel angle, light inte
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="hero.jpg" alt="Assembled solar-powered mini car, three-quarter front view" width="100%">
+      <img src="images/hero.jpg" alt="Assembled solar-powered mini car, three-quarter front view" width="100%">
       <br><sub>Assembled vehicle, panel mounted on the roof</sub>
     </td>
     <td width="50%" align="center">
-      <img src="top-view.jpg" alt="Top-down view of the car showing the solar panel and wiring" width="100%">
+      <img src="images/top-view.jpg" alt="Top-down view of the car showing the solar panel and wiring" width="100%">
       <br><sub>Top-down view of the panel placement</sub>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="battery-compartment.jpg" alt="Underside of the car showing the NiMH battery pack" width="450">
+  <img src="images/battery-compartment.jpg" alt="Underside of the car showing the NiMH battery pack" width="450">
   <br><sub>Underside — 4× 1.2 V NiMH battery pack</sub>
 </p>
 
@@ -79,7 +79,7 @@ Charging efficiency was the main limiting factor — the 100 mA panel current st
 Current flows from the solar panel through the TP4056 module into the battery pack, and from there through a manual switch to the two DC motors:
 
 <p align="center">
-  <img src="block-diagram.png" alt="System block diagram: solar panel and DC motors feed into the charging module, which connects to the switch and battery" width="500">
+  <img src="images/block-diagram.png" alt="System block diagram: solar panel and DC motors feed into the charging module, which connects to the switch and battery" width="500">
   <br><sub>Figure 3.1 — System block diagram</sub>
 </p>
 
