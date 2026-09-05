@@ -2,8 +2,6 @@
 
 A small-scale RC car chassis converted into a fully solar-charged vehicle — no batteries plugged into a wall, no fossil fuels, just a photovoltaic panel, a charging module, and rechargeable batteries turning sunlight into motion.
 
-Final project for **EED1014 – Engineering Design**, Dokuz Eylül University, Faculty of Engineering, Department of Electrical and Electronics Engineering.
-
 <p align="center">
   <img src="images/circuit-closeup.jpg" alt="Close-up of the TP4056 charging circuit wired at the rear of the car, solar panel lifted" width="600">
   <br>
